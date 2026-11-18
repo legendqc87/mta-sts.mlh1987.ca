@@ -1,5 +1,5 @@
 version: STSv1
 mode: enforce
-mx: aspmx1.migadu.com
-mx: aspmx2.migadu.com
-max_age: 604800
+mx: mail.anonaddy.me
+mx: mail2.anonaddy.me
+max_age: 2419200
